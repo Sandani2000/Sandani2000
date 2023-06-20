@@ -80,9 +80,9 @@
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandani2000&show_icons=true&theme=tokyonight&title_color=a63ea8&text_color=e1ade0&locale=en&layout=compact" alt="sandani2000" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandani2000&show_icons=true&theme=tokyonight&title_color=f1a2fb&text_color=ad66c7&locale=en" alt="sandani2000" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandani2000&show_icons=true&theme=tokyonight&title_color=f1a2fb&text_color=ad66c7&locale=en" alt="sandani2000" /></p> 
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandani2000&" alt="sandani2000" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandani2000&" alt="sandani2000" /></p>
 
 ---
 ![snake gif](https://github.com/abdulayef1/abdulayef1/blob/output/github-contribution-grid-snake.svg)
